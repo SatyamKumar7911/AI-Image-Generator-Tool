@@ -1,4 +1,4 @@
-# AI-Image-Generator-Tool
+# AI-Image-Generator-Website
 
 The AI Image Generator website is a web application that allows users to generate images based on a text description they provide. The application uses the OpenAI API to generate the images.The main objective of the project is to demonstrate the capabilities of AI in generating images based on textual descriptions, providing users with a fun and interactive way to create unique images
 
